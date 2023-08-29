@@ -4,3 +4,5 @@ venv/
 .env
 *.json
 *.side
+main2.py
+side.py
